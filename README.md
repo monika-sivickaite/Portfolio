@@ -1,2 +1,3 @@
 # Portfolio
-Includes my work with python from ATLS1300
+This portfolion includes programming challanges using python
+ATLS1300
