@@ -1,3 +1,4 @@
 # Portfolio
-This portfolion includes programming challanges using python
+This portfolio includes programming challanges
+Used language: python 
 ATLS1300
