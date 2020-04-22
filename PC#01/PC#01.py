@@ -21,7 +21,6 @@ m.shape("circle")
 
 #turtle draws a square and later fills it (black)
 m.begin_fill()
-
 m.forward(100)
 m.right(90)
 m.forward(100)
